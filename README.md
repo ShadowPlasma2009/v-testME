@@ -13,6 +13,11 @@ Not scientifically accurate. 100% judgemental.
 
 Use `gh repo clone ShadowPlasma2009/v-testME` to clone this godforsaken repo.
 
+## Requirements
+-Colorama
+-Pyfiglet
+###But don't worry, the install scripts take care of the requirements automatically.
+
 >This is the Male Edition of v-test.
 >FE coming soon! I plan to add
 >up to 256 questions to each test.
