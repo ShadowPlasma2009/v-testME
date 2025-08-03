@@ -26,18 +26,19 @@ Otherwise, the v-testME Python file is guaranteed to work. And if an install scr
 > Now, you might want to make it look like a CLI command more, by renaming the 'ME' part with 'me'.
 > Once that's done, move it to the /bin folder or wherever necessary. Now you can execute it as a command system-wide by typing `v-testME`, or whatever you named it before placing it in /bin.
 >
+> If you want to use the provided installation scripts, refer to `Installation via Install Scripts`.
+>
 > PS: I only provided instructions for Linux/Termux as I am not familiar with Windows that much, and don't have a Windows PC to test on. Am soon getting a trashy one so you can expect the instructions when I get the PC.
 
 > ## Requirements
 > - Colorama
 > - Pyfiglet
 >
->But don't worry, the install >scripts take care of the >requirements
->automatically.
+>But don't worry, the install scripts take care of the requirements automatically.
 
->This is an open source project, >if it wasn't already obvious.
->If you want to see the code, >just look inside the v-testME >file.
->This is program is written in >Python. ～⁠>⁠`⁠)⁠～⁠～⁠～
+>This is an open source project, if it wasn't already obvious.
+>If you want to see the code, just look inside the v-testME file.
+>This is program is written in Python. ～⁠>⁠`⁠)⁠～⁠～⁠～
 
 This is the Male Edition of v-test.
 FE coming soon! I plan to add
