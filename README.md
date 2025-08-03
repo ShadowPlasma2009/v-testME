@@ -25,8 +25,8 @@ Otherwise, the v-testME Python file is guaranteed to work. And if an install scr
 > Like this: `chmod +x v-testME`
 > Now, you might want to make it look like a CLI command more, by renaming the 'ME' part with 'me'.
 > Once that's done, move it to the /bin folder or wherever necessary. Now you can execute it as a command system-wide by typing `v-testME`, or whatever you named it before placing it in /bin.
-
-Use `gh repo clone ShadowPlasma2009/v-testME` to clone this godforsaken repo.
+>
+> PS: I only provided instructions for Linux/Termux as I am not familiar with Windows that much, and don't have a Windows PC to test on. Am soon getting a trashy one so you can expect the instructions when I get the PC.
 
 > ## Requirements
 > - Colorama
