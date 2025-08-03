@@ -20,6 +20,10 @@ Use `gh repo clone ShadowPlasma2009/v-testME` to clone this godforsaken repo.
 >But don't worry, the install scripts take care of the requirements
 >automatically.
 
+>This is an open source project, if it wasn't already obvious.
+>If you want to see the code, just look inside the v-testME file.
+>This is program is written in Python. ～⁠>⁠`⁠)⁠～⁠～⁠～
+
 >This is the Male Edition of v-test.
 >FE coming soon! I plan to add
 >up to 256 questions to each test.
